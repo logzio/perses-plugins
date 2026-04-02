@@ -40,7 +40,7 @@
     "@swc/core": "^1.7.10",
     "@swc/jest": "^0.2.37",
     "@testing-library/dom": "^10.4.0",
-    "@testing-library/jest-dom": "^6.6.3",
+    "@testing-library/jest-dom": "^6.7.0",
     "@testing-library/react": "^16.1.0",
     "@testing-library/user-event": "^13.5.0",
     "@types/color-hash": "^2.0.0",
