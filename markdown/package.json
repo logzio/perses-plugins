@@ -10,7 +10,7 @@
     "type-check": "tsc --noEmit"
   },
   "dependencies": {
-    "@module-federation/enhanced": "^0.8.9",
+    "@module-federation/enhanced": "^2.9.2",
     "dompurify": "^3.2.3",
     "marked": "^15.0.6"
   },
